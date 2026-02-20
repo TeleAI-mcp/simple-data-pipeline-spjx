@@ -1,2 +1,3 @@
-# simple-data-pipeline-spjx
-A data processing pipeline for modern development workflows
+# Simple Data Pipeline Spjx
+
+A data processing pipeline for modern development workflows.
